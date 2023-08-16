@@ -1,0 +1,219 @@
+{
+  "food": [
+    {
+      "id": "1111",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/1024px-Amandine_cake.jpg",
+      "cate": "Cake",
+      "name": "Angel Cake",
+      "price": "80$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4003",
+      "cate": "Sweet",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaju_katli_dessert_-_side_view.jpg/1024px-Kaju_katli_dessert_-_side_view.jpg",
+      "name": "Kaju katli",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "2001",
+      "url": "https://tidyup.org.uk/imgsb/3-bowl-of-fruit.jpg",
+      "cate": "Fruit",
+      "name": "Mix Friut",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1112",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Angel_food_cake_with_strawberries_%284738859336%29.jpg",
+      "cate": "Cake",
+      "name": "Angel Food Cake",
+      "price": "100$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1113",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Apple_cake_with_vanilla_ice_cream_2.jpg/1024px-Apple_cake_with_vanilla_ice_cream_2.jpg",
+      "cate": "Cake",
+      "name": "Apple cake",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1114",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Banana_cake.jpg",
+      "cate": "Cake",
+      "name": "Banana Cake",
+      "price": "101$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1115",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cupcakes%2C_chocolate_and_strawberry_flavour.jpg/1024px-Cupcakes%2C_chocolate_and_strawberry_flavour.jpg",
+      "cate": "Cake",
+      "name": "Cupcake",
+      "price": "80$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1116",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mango_Passion_cake_%28Red_Ribbon%2C_Philippines%29.jpg/1024px-Mango_Passion_cake_%28Red_Ribbon%2C_Philippines%29.jpg",
+      "cate": "Cake",
+      "name": "Mango cake",
+      "price": "75$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "2000",
+      "url": "https://www.liveeatlearn.com/wp-content/uploads/2022/10/Red-Delicious-Apples-768x449.jpg",
+      "cate": "Fruit",
+      "name": "Apple",
+      "price": "20$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "2004",
+      "cate": "Fruit",
+      "name": "Pinapple",
+      "price": "2$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "2005",
+      "cate": "Fruit",
+      "name": "Banana",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "3000",
+      "url": "https://www.eatwell101.com/wp-content/uploads/2018/11/Parmesan-Roasted-Sweet-Potato-Recipe.jpg",
+      "cate": "Veg",
+      "name": "Potato",
+      "price": "1$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "3001",
+      "url": "https://steamykitchen.com/wp-content/uploads/2013/02/moroccan-stuffed-onions-recipe-1068.jpg",
+      "cate": "Veg",
+      "name": "Onion",
+      "price": "2$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "3002",
+      "url": "https://th.bing.com/th/id/OIP.P5NNUO81hrm5Oye5tfUZnwHaJ1?pid=ImgDet&rs=1",
+      "cate": "Veg",
+      "name": "Pumpkin",
+      "price": "1$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4000",
+      "cate": "Sweet",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bonde_-_Kolkata_2011-03-15_1991.JPG/1024px-Bonde_-_Kolkata_2011-03-15_1991.JPG",
+      "name": "Boondi",
+      "price": "10$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4001",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1_Gulab_Jamun_Mithai_Sweets_of_India_cropped.jpg/1024px-1_Gulab_Jamun_Mithai_Sweets_of_India_cropped.jpg",
+      "cate": "Sweet",
+      "name": "Gulab jamun",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4002",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JalebiIndia.jpg",
+      "cate": "Sweet",
+      "name": "Imarti",
+      "price": "10$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4003",
+      "cate": "Sweet",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaju_katli_dessert_-_side_view.jpg/1024px-Kaju_katli_dessert_-_side_view.jpg",
+      "name": "Kaju katli",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    }
+  ],
+  "profile": [
+    {
+      "id": "0001",
+      "name": "Aman",
+      "email": "1amanpce@gmail.com",
+      "pass": "1234",
+      "mobile": "7070476900"
+    },
+    {
+      "name": "khan",
+      "email": "1amanpce@gmail.com",
+      "password": "khan",
+      "mobile": "7953948237948",
+      "id": "rQoYhzi"
+    }
+  ],
+  "fav": [
+    {
+      "id": "4002",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JalebiIndia.jpg",
+      "cate": "Sweet",
+      "offer": "Today's Combo Offer",
+      "'icon": "X4",
+      "name": "Imarti",
+      "price": "10$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4003",
+      "cate": "Sweet",
+      "offer": "Today's Combo Offer",
+      "'icon": "X4",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaju_katli_dessert_-_side_view.jpg/1024px-Kaju_katli_dessert_-_side_view.jpg",
+      "name": "Kaju katli",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4000",
+      "offer": "Today's Combo Offer",
+      "'icon": "X4",
+      "cate": "Sweet",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bonde_-_Kolkata_2011-03-15_1991.JPG/1024px-Bonde_-_Kolkata_2011-03-15_1991.JPG",
+      "name": "Boondi",
+      "price": "10$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    }
+  ],
+  "single": [
+    {
+      "id": "4001",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1_Gulab_Jamun_Mithai_Sweets_of_India_cropped.jpg/1024px-1_Gulab_Jamun_Mithai_Sweets_of_India_cropped.jpg",
+      "cate": "Sweet",
+      "name": "Gulab jamun",
+      "price": "30$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "4000",
+      "cate": "Sweet",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bonde_-_Kolkata_2011-03-15_1991.JPG/1024px-Bonde_-_Kolkata_2011-03-15_1991.JPG",
+      "name": "Boondi",
+      "price": "10$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    },
+    {
+      "id": "1111",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/1024px-Amandine_cake.jpg",
+      "cate": "Cake",
+      "name": "Angel Cake",
+      "price": "80$",
+      "des": "Cupcake ipsum dolor sit amet. Muffin gummi bears tootsie roll ice cream muffin cake I love"
+    }
+  ]
+}

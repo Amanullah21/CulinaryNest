@@ -1,0 +1,15 @@
+.LoginForm {
+  text-align: center;
+  background-color: aquamarine;
+  margin: 50px 40%;
+  padding: 20px;
+  border-radius: 50px;
+}
+.LoginForm > input {
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.LoginForm > button,
+.LoginForm > a > button {
+  width: 185px;
+}
