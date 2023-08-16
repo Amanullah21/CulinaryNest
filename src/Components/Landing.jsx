@@ -24,14 +24,7 @@ const Landing = () => {
         <LandingCard />
       </div>
       <div>
-        <article
-          style={{
-            margin: "20px 100px",
-            background: " rgb(23, 209, 204)",
-            padding: "30px",
-            fontSize: "22px",
-          }}
-        >
+        <article className={styled.artical}>
           <strong>Loren</strong> ipsum dolor sit amet, consectetur adipisicing
           elit. Eveniet cumque non voluptates animi sed, quos laboriosam enim
           deleniti a recusandae? Vero aperiam vel enim? Iure ducimus quasi
@@ -70,35 +63,24 @@ const Landing = () => {
       </div>
       <div className={styled.iframe_container}>
         <div>
+          <iframe src="https://www.masaischool.com/" title="Iframe Example" />
+        </div>
+        <div>
           <iframe
-            src="https://www.masaischool.com/"
+            src="https://www.masaischool.com/courses/full-stack-web-dev-full-time"
             title="Iframe Example"
-            height={350}
-            width={600}
           />
         </div>
         <div>
           <iframe
-            src="https://www.zomato.com/india"
+            src="https://www.masaischool.com/fees"
             title="Iframe Example"
-            height={350}
-            width={600}
           />
         </div>
         <div>
           <iframe
-            src="https://www.amazon.in/"
+            src="https://www.masaischool.com/hire-masai-graduates"
             title="Iframe Example"
-            height={350}
-            width={600}
-          />
-        </div>
-        <div>
-          <iframe
-            src="https://www.google.com"
-            title="Iframe Example"
-            height={350}
-            width={600}
           />
         </div>
       </div>
